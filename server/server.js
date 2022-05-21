@@ -1,4 +1,7 @@
 const express = require("express");
 const app = express();
 
-const data = ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express"];
+// const data = ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express"];
+
+app.get("")
+
